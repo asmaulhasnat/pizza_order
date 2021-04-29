@@ -19,6 +19,9 @@ yarn build
 ```
 yarn lint
 ```
-
+### configur axios.js
+```
+set axios base url
+```
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
